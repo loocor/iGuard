@@ -1,0 +1,44 @@
+# 项目文档
+
+重写一套全国范围的学生视力筛查管理系统，需要从需求分析、系统架构、数据管理、安全性、用户体验、技术实现等多个方面进行综合规划。本项目不仅要满足基本的筛查管理需求，还要考虑数据标准化、AI 应用、多语言支持、可访问性设计等先进特性，以及确保系统的高性能、高可用性和数据安全。建议组建多学科团队，包括软件开发、数据分析、教育管理、医疗专家等，共同推动项目的成功实施。保持与各级教育局、学校、医疗机构和研究机构的紧密合作，确保系统满足各方需求，并在实际使用中不断优化和改进，最终建立一个全面、高效、安全的全国学生视力健康管理平台。
+
+## 1. 项目背景与目标
+
+详见[01_background.md](docs/01_background.md)
+
+## 2. 需求分析
+
+详见[02_requirements.md](docs/02_requirements.md)
+
+## 3. 系统架构设计
+
+详见[03_architecture.md](docs/03_architecture.md)
+
+## 4. 功能模块详解
+
+详见[04_modules.md](docs/04_modules.md)
+
+## 5. 技术实现与开发
+
+详见[05_implementation.md](docs/05_implementation.md)
+
+## 6. 项目管理与实施
+
+详见[06_project_management.md](docs/06_project_management.md)
+
+## 7. 培训与支持
+
+详见[07_training.md](docs/07_training.md)
+
+## 8. 后续维护与迭代
+
+详见[08_maintenance.md](docs/08_maintenance.md)
+
+## 9. 成功案例与参考
+
+详见[09_case_studies.md](docs/09_case_studies.md)
+
+## 10. 未来扩展与升级参考
+
+详见[10_future_plans.md](docs/10_future_plans.md)
+
